@@ -1,0 +1,123 @@
+[{
+    "id": 1,
+    "first_name": "Gardy",
+    "last_name": "Awton",
+    "email": "gawton0@bravesites.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "A",
+      "science": "C",
+      "reading": "D",
+      "writing": "B"}
+  }, {
+    "id": 2,
+    "first_name": "Tarra",
+    "last_name": "Hylton",
+    "email": "thylton1@mashable.com",
+    "gender": "Female",
+    "grades": 
+      {"math": "A",
+      "science": "D",
+      "reading": "A",
+      "writing": "F"}
+  }, {
+    "id": 3,
+    "first_name": "Sloane",
+    "last_name": "Matteoni",
+    "email": "smatteoni2@diigo.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "A",
+      "science": "F",
+      "reading": "A",
+      "writing": "C"}
+  }, {
+    "id": 4,
+    "first_name": "Clare",
+    "last_name": "Greeves",
+    "email": "cgreeves3@homestead.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "A",
+      "science": "A",
+      "reading": "F",
+      "writing": "A"}
+  }, {
+    "id": 5,
+    "first_name": "Fanni",
+    "last_name": "Agass",
+    "email": "fagass4@mozilla.com",
+    "gender": "Female",
+    "grades": 
+      {"math": "A",
+      "science": "F",
+      "reading": "A",
+      "writing": "A"}
+  }, {
+    "id": 6,
+    "first_name": "Raynard",
+    "last_name": "Stanfield",
+    "email": "rstanfield5@deliciousdays.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "A",
+      "science": "A",
+      "reading": "A",
+      "writing": "F"}
+  }, {
+    "id": 7,
+    "first_name": "Annabell",
+    "last_name": "Boarder",
+    "email": "aboarder6@sohu.com",
+    "gender": "Female",
+    "grades": 
+      {"math": "A",
+      "science": "A",
+      "reading": "A",
+      "writing": "B"}
+  }, {
+    "id": 8,
+    "first_name": "Ursulina",
+    "last_name": "Browse",
+    "email": "ubrowse7@mapy.cz",
+    "gender": "Female",
+    "grades": 
+      {"math": "A",
+      "science": "A",
+      "reading": "C",
+      "writing": "A"}
+  }, {
+    "id": 9,
+    "first_name": "Elle",
+    "last_name": "Reinhart",
+    "email": "ereinhart8@hostgator.com",
+    "gender": "Female",
+    "grades": 
+      {"math": "A",
+      "science": "D",
+      "reading": "A",
+      "writing": "A"}
+  }, {
+    "id": 10,
+    "first_name": "Orbadiah",
+    "last_name": "Jerche",
+    "email": "ojerche9@github.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "D",
+      "science": "A",
+      "reading": "A",
+      "writing": "D"}
+  }, {
+    "id": 5,
+    "first_name": "Fangoriously",
+    "last_name": "Aglass",
+    "email": "fangag4@mozilla.com",
+    "gender": "Male",
+    "grades": 
+      {"math": "B",
+      "science": "D",
+      "reading": "C",
+      "writing": "B"}
+  }
+]
